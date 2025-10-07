@@ -4,6 +4,8 @@ O Background-Mágico é uma aplicação web que permite aos usuários criar back
 
 O projeto foi desenvolvido com HTML para a estrutura, CSS para estilização e responsividade, e JavaScript para interações e requisições HTTP. Para a geração dos backgrounds, a aplicação integra o n8n com a IA do GPT, permitindo que o usuário receba respostas automáticas baseadas na sua descrição.
 
+
+
 ✨ Funcionalidades
 
 🖊 O usuário digita uma descrição do background desejado
@@ -15,6 +17,8 @@ O projeto foi desenvolvido com HTML para a estrutura, CSS para estilização e r
 🌐 Integração com n8n e OpenAI para gerar backgrounds personalizados
 
 🎨 Interface simples, responsiva e interativa
+
+
 
 🛠️ Tecnologias Utilizadas
 
@@ -29,10 +33,13 @@ n8n → Automação de workflows
 OpenAI → Geração de backgrounds e códigos correspondentes
 
 
+
 🔗 Deploy
 
 Você pode acessar o projeto ao vivo aqui:
 👉 https://mateus-db.github.io/background-magico/
+
+
 
 
 🚀 Como Executar o Projeto
