@@ -29,6 +29,12 @@ n8n → Automação de workflows
 OpenAI → Geração de backgrounds e códigos correspondentes
 
 
+🔗 Deploy
+
+Você pode acessar o projeto ao vivo aqui:
+👉 Background-Mágico - Live Demo
+
+
 🚀 Como Executar o Projeto
 
 Clone o repositório:
