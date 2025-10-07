@@ -32,7 +32,7 @@ OpenAI → Geração de backgrounds e códigos correspondentes
 🔗 Deploy
 
 Você pode acessar o projeto ao vivo aqui:
-👉 Background-Mágico - Live Demo
+👉 https://mateus-db.github.io/background-magico/
 
 
 🚀 Como Executar o Projeto
